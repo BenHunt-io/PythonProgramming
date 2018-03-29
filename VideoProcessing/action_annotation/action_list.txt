@@ -30,5 +30,3 @@ actions(29).txt = 'writing';
 actions(30).txt = 'putting on shoes/sucks';
 actions(31).txt = 'drinking coffee/tea';
 actions(32).txt = 'grabbing water from tap';
-
-
